@@ -1,0 +1,28 @@
+{
+  "nombre":"Jonh Doe",
+  "profesion":"Programador",
+  "edad":25,
+  "lenguajes":["PHP","Javascript","Dart"],
+  "rangoProfesional": {
+      "aniosDeExperiencia": 12,
+      "nivel": "Senior"
+  }
+
+  "nombre":"Anibal",
+  "profesion":"Tansportista",
+  "edad":55,
+  "carnets":["C","C1","C1E","CE"],
+  "rangoProfesional": {
+      "aniosDeExperiencia": 25,
+  }
+
+  "nombre":"Antonio",
+  "profesion":"Fontanero",
+  "edad":58,
+  "cursos":["Instalador de Fontanería y Calefacción ","Experto en Diseño de Tuberia Industrial ","Mantenimientos en Hoteles y Alojamientos Turísticos"],
+  "rangoProfesional": {
+      "aniosDeExperiencia": 38,
+  }
+
+}
+
